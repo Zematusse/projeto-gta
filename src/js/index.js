@@ -14,6 +14,7 @@ Objetivo 2 - caso a lista de botões de plataformas já esteja aparecendo e o us
     Passo 1 - verificar se o botão já esta aberto, se sim, devemos remover a classe ativo pra que ele esconda o conteúdo novamente
 
 */
+//hjsgdh
 
 const botao = document.querySelector(".btn-plataforma");
 const elementoPlataformas = document.querySelector(".btn-plataforma .plataformas");
